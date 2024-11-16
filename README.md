@@ -65,51 +65,32 @@
 
 ---
 
-### 🛠️ Langages et Outils
+### Skills
 
-#### 💻 Langages de Programmation
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-</p>
-
-#### 🌐 Développement Web
 
 <p align="left">
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
-  </a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+</a>
 </p>
 
-#### 🛢️ Bases de Données
 
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  </a>
-</p>
-
-#### ☁️ Services Cloud
+#### ☁️ Services and Environments
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
@@ -118,12 +99,7 @@
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
   </a>
-</p>
-
-#### 🖥️ Outils et Environnements
-
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
@@ -131,23 +107,4 @@
   </a>
 </p>
 
----
 
-### 🧠 Compétences
-
-- OOP
-- Coding Insurance Quality
-- SOLID+T principles
-- Domain Driven Design (DDD)
-- Algorithm Analysis and Design
-- Clean Coding
-- CI/CD
-- Software architecture
-- DevOps
----
-
-### 📊 GitHub Activity Graph
-
-[![Mostafa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kingmufasa99&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
