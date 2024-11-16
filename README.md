@@ -10,14 +10,14 @@
 
 ###
 
-<h4 align="left">I'm a Software Engineer passionate about developing scalable web applications, optimizing data processing, and leveraging various frameworks and libraries.</h4>
+<h4 align="left">I'm an undergrad Software Engineer passionate about developing scalable web applications, optimizing data processing, and training AIs.</h4>
 
 ###
 
 <p align="left">
-  - 🔭 I’m currently working on software development and product management projects.<br>
+  - 🔭 I’m currently working as an AI trainer for Outlier.<br>
   - 📚 I'm continuously learning new technologies to enhance my skill set.<br>
-  - 💬 Ask me about Java, Python, Web Development, Data Science, and Machine Learning.
+  - 💬 Ask me about Java, Python, C++, Algorithms, Web Development, OOP, and AI training.
 </p>
 
 ###
@@ -26,9 +26,6 @@
   <h3 align="left">🤝 Let's Connect!</h3>
   <a href="https://www.linkedin.com/in/mostafa-filali-a82375120/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="Gmail logo" />
   </a>
 </div>
 
@@ -69,7 +66,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Langages et Outils
 
 <p align="left">
   <!-- Ajoutez les icônes des langages de programmation et des outils que vous maîtrisez -->
@@ -79,7 +76,7 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
@@ -88,8 +85,25 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
   </a>
+  <!-- Ajout de AWS -->
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <!-- Ajout de MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <!-- Ajout de SQLite -->
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+  </a>
+  <!-- Ajout de C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
   <!-- Ajoutez d'autres icônes si nécessaire -->
 </p>
+
 
 ---
 
@@ -99,31 +113,3 @@
 
 ---
 
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Votre dernier article de blog](#)
-- [Un autre titre d'article](#)
-<!-- BLOG-POST-LIST:END -->
-
-*Vous pouvez remplacer ce qui précède par vos articles de blog réels ou supprimer cette section si elle n'est pas applicable.*
-
----
-
-**Note :** N'oubliez pas de remplacer les informations suivantes par vos propres données :
-
-- **Adresse e-mail** : Remplacez `your.email@example.com` par votre adresse e-mail réelle.
-- **Langages et outils** : Ajoutez ou retirez les icônes en fonction des technologies que vous maîtrisez.
-- **Articles de blog** : Si vous avez un blog, vous pouvez utiliser un service comme [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) pour afficher vos derniers articles.
-
-**Instructions pour la personnalisation :**
-
-1. **Mettre à jour les sections "About Me" et "Languages and Tools"** avec vos informations personnelles, vos compétences et vos expériences.
-
-2. **Ajouter des projets ou des réalisations** dans la section appropriée pour mettre en avant votre travail.
-
-3. **Personnaliser le thème et les couleurs** en modifiant les paramètres des URLs des images si vous le souhaitez.
-
-4. **Si vous avez des statistiques ou des graphiques supplémentaires**, vous pouvez les intégrer en utilisant des services tiers comme GitHub Readme Stats.
-
-Si vous avez besoin d'aide supplémentaire pour personnaliser votre README ou si vous souhaitez ajouter des sections spécifiques, n'hésitez pas à me le faire savoir !
