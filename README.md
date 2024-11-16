@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mostafa Filali!</h1>
 
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<h4 align="left">I'm an undergrad Software Engineer passionate about developing scalable web applications, optimizing data processing, and AI.</h4>
+<h2 align="left">Undergrad Software Engineer and AI trainer.</h4>
 
 ###
 
-<p align="left">
-  - 🔭 I’m currently working on software development and AI training.<br>
-  - 📚 I'm continuously learning new technologies to enhance my skill set.<br>
-  - 💬 Ask me about Java, Python, Web Development, Data Science, and Machine Learning.
-</p>
+<div align="left">
+  <p align="left">
+    - 🔭 I’m currently working on AI training for Outlier Inc.<br>
+    - 💬 Ask me about Java, Python, Web Development, and Data/Algorithms.
+  </p>
+</div>
 
-
+###
 
 <div align="left">
   <h3 align="left">🤝 Let's Connect!</h3>
@@ -30,9 +28,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
 
-###
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kingmufasa99&theme=rising-sun&hide_border=true&background=01006100" alt="kingmufasa99" />
