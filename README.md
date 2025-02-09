@@ -9,7 +9,6 @@
 
 <div align="left">
   <p align="left">
-    - 🔭 I’m currently working on AI training for Outlier Inc.<br>
     - 💬 Major interest in Python, Web Development, and Data/Algorithms.
   </p>
 </div>
